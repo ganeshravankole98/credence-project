@@ -1,0 +1,8 @@
+[
+  "tests/test_login.py::test_login",
+  "tests/test_login.py::test_login_full_flow",
+  "tests/test_register.py::test_register",
+  "tests/test_shop.py::test_add_to_car",
+  "tests/test_shop.py::test_add_to_cart",
+  "tests/test_shop.py::test_shop"
+]
